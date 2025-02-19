@@ -6,7 +6,7 @@
 
 ebay.sh "NameDesArtikels" "KommentarZumArtikel"
 
-### Zu beachten
+### Zu Beachten
 
 - der gewünschte Pfad muss im Skript ersetzt werden
 - für die Nutzung von ChatGPT muss der persönliche API-KEY festgelegt werden
